@@ -15,4 +15,5 @@ minikube start --memory=max --cpus=max -p d2-4-1 -n=5
 minikube status -p d2-4-1 
 
 > Скриншот вывода результата выполнения команды:
+
 ![](status.jpg)
